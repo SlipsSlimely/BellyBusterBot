@@ -1,0 +1,7 @@
+node_modules
+.env
+package-lock.json
+package.json
+sites.js
+profileSchema.js
+config.json

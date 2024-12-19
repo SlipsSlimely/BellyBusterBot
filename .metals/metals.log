@@ -1,0 +1,5 @@
+[0m2021.12.16 19:35:11 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\Paul\Desktop\Discord Bots\BellyBusterBot' for client Visual Studio Code 1.62.1.[0m
+[0m2021.12.16 19:35:14 INFO  time: initialize in 3.21s[0m
+[0m2021.12.16 19:35:20 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.16 19:35:20 WARN  no build tool detected in workspace 'C:\Users\Paul\Desktop\Discord Bots\BellyBusterBot'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.12.16 20:12:44 INFO  shutting down Metals[0m
